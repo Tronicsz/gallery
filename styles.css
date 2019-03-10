@@ -1,0 +1,87 @@
+/* All forms of text */
+
+h1 {
+    text-align: center;
+    font-family: "stink on the death", pacifico, cursive;
+    font-size: 120px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+    margin: 10px auto;
+    
+
+}
+
+.reference {
+    text-align: center;
+    font-style: italic;
+    letter-spacing: 0.5px;
+    font-size: 20px;
+
+}
+
+h2 {
+    font-variant: small-caps;
+    text-align: left;
+    padding: 10px auto;
+}
+
+.soon {
+    text-align: center;
+    padding: 100px;
+}
+
+p:hover {
+    color: white;
+}
+
+h2:hover {
+    color: white;
+}
+
+span:hover {
+    color: blue;
+    text-decoration: underline;
+}
+
+.home {
+    text-align: left;
+    font-size: 30px;
+    padding: 0px auto;
+    
+}
+
+.home:hover {
+    text-decoration: overline;
+    
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+
+/* body and HTML */
+
+body {
+    text-align: center;
+    border: 5px solid white;
+    background-color: rgba(155, 155, 153, 0.8);
+    margin: 10px 250px 60px 250px;
+    padding: 10px 150px 60px 150px;
+}
+
+html {
+    background-image: url("images/to\ upload.jpg");
+    background-repeat: no-repeat;
+    background-position: right top;
+    background-attachment: fixed;
+    background-color: white;
+}
+
+/* image and graphics */
+
+img {
+    border: 3px solid black;
+    border-radius: 10px;
+}
